@@ -2,9 +2,9 @@
 
 A machine learning project that predicts whether a loan application will be approved or rejected, along with the approval probability. The model is Logistic Regression, served through a Streamlit web app.
 
-**Live app:**https://7buzrsvnyezjtt5ggaxhbw.streamlit.app/
+**Live app:**deployedapp.url
+https://7buzrsvnyezjtt5ggaxhbw.streamlit.app/
 
-![Deployed application](deployed_app.png)
 
 ## 1. Problem Statement
 
